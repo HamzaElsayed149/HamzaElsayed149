@@ -10,7 +10,7 @@ Front end developer
 - 🔧Version code control: `Git` & `Github`
 
 - 🛠Tools: `Vscode`
-- :pencil:Extra:` ADOBE PHOTOSHOP` ` MICROSOFT OFFICE (word/powerpoint)` `Scss`
+- :pencil:Extra:` Adobe Photoshop` ` Microsotf Office (Word/Powerpoint)` `Scss`
 
 **Social Networks**
 
