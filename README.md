@@ -5,7 +5,7 @@ Front end developer
 **Current stack**
 
 
-- 🚀Frontend: `Javascript`, `React`, `HTML5`, `CSS3`, `Bootstrap`
+- 🚀Frontend: `Javascript`, `React`, `HTML5`, `CSS3`, `Bootstrap` ,`tailwind`,`Api`
 
 - 🔧Version code control: `Git` & `Github`
 
