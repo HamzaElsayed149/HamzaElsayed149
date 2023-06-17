@@ -5,12 +5,12 @@ Front end developer
 **Current stack**
 
 
-- 🚀Frontend: `Javascript`, `React`, `HTML5`, `CSS3`, `Bootstrap` ,`tailwind`,`Api`
+- 🚀Frontend: `Javascript`, `React`,`typescript`, `HTML5`, `CSS3`, `Bootstrap`,`Scss` ,`tailwind`,`Api`
 
 - 🔧Version code control: `Git` & `Github`
 
 - 🛠Tools: `Vscode`
-- :pencil:Extra:` Adobe Photoshop` ` Microsotf Office (Word/Powerpoint)` `Scss`
+- :pencil:Extra:` Adobe Photoshop` ` Microsotf Office (Word/Powerpoint)` 
 
 **Social Networks**
 
